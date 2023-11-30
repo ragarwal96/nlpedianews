@@ -3,7 +3,7 @@
     "name": "Text Summarizer",
     "version": "1.0",
     "description": "Here to save lives and summarize!",
-    "permissions": ["activeTab", "storage"],
+    "permissions": ["activeTab", "storage", "tabs","notifications"],
     "action": {
         "default_icon": {
             "16": "icons/icon16.png"
